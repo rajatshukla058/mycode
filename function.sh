@@ -5,4 +5,4 @@ do
 echo "Hello $NAME"
 done
 }
-hello rajat amit ankit
+hello rajat amit ankit 
