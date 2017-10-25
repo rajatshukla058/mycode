@@ -5,4 +5,4 @@ do
 echo "${LINE_NUM} : ${LINE} "
 (( LINE_NUM++))
 done 
-###< /etc/fstab
+###< /Eetc/fstab
