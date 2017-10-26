@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #!/bin/bash -x
 LINE_NUM=1
 #while re 'blkid' to print the universally unique identifier for a
@@ -14,7 +14,7 @@ LINE_NUM=1
 #ad LINE
 =======
 #!/bin/bash
-<<<<<<< HEAD
+
 #LINE_NUM=1
 #while read LINE
 >>>>>>> 08ec53b5c5b053cefcb7715fc3b09e19fc865c4c
@@ -37,5 +37,3 @@ do
 echo "${LINE_NUM} : ${LINE} "
 (( LINE_NUM++))
 done 
-###< /Eetc/fstab
->>>>>>> c75414b118a6966e99ff196c5d7e465624e30c9a
