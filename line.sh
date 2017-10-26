@@ -17,8 +17,7 @@ LINE_NUM=1
 
 #LINE_NUM=1
 #while read LINE
->>>>>>> 08ec53b5c5b053cefcb7715fc3b09e19fc865c4c
-#do 
+do 
 #echo "${LINE_NUM} : ${LINE} "
 #(( LINE_NUM++))
 #done 
